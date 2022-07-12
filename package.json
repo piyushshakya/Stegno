@@ -20,6 +20,11 @@
     "steggy-noencrypt": "^2.0.3",
     "web-vitals": "^1.1.2"
   },
+  
+  "engines": {
+    "npm": ">=8.1.2",
+    "node": ">=16.13.2"
+  },  
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
